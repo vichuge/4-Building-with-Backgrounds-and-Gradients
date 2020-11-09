@@ -1,0 +1,39 @@
+body {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+/* Header */
+
+.before{
+    padding: 50px 0;
+}
+
+header {
+    background-image: url(../img/bg.jpg);
+    background-position: left bottom;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+}
+
+header h1 {
+    justify-content: center;
+    color: white;
+}
+
+/*Nav bar */
+nav{
+    display:flex;
+    border: 1px solid black;
+    margin: 0 50px;
+    border-radius: 5px;
+}
+
+nav>div{
+    padding: 10px 0;
+    content: 0 50px;
+    margin-right: 1px solid black;
+}
+
+nav div p{
+    margin-bottom: 0;
+}
