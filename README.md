@@ -1,8 +1,8 @@
 **![](https://img.shields.io/badge/-microverse-yellow)**
 
-# Positioning And Floating Elements (New York Times page)
+# Building with Backgrounds and Gradients (Apple Store page)
 
-> This is a collaborative third project in the HTML5&CSS3 Microverse curriculum.
+> This is a collaborative fourth project in the HTML5&CSS3 Microverse curriculum.
 
 # Screenshot
 

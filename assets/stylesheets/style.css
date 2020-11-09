@@ -51,20 +51,21 @@ header a:hover {
 nav{
     display:flex;
     justify-content: space-around;
-    border: 1px solid black;
+    border: 1px solid #5D5D5D;
     margin: 0 50px;
     border-radius: 5px;
-    background: linear-gradient(rgba(131, 135, 131) 50%, rgba(112, 112, 112) 50%);
-
+    background: linear-gradient(#8B8B8B, #707070 50%, #5E5E5E 50%, #787878);
     color: #fff;
 }
-.n {
+.n, .n9 {
   border-right: 1px solid #464646;
   flex: 1;
   text-align: center;
   justify-content: center;
 }
-
+.n:hover {
+  background-color: rgba(0, 0, 0, 0.4);
+}
 .inner-addon{
   display:flex;
   justify-content: space-between;
