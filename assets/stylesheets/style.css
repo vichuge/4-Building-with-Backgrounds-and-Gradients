@@ -7,13 +7,18 @@ body {
 .before{
     padding: 50px 0;
 }
-
+.head-link {
+  width: 100%;
+}
 header {
     background-image: url(../img/bg.jpg);
     background-position: left bottom;
     background-repeat: no-repeat;
     background-size: 100% auto;
     padding: 50px 100px 85px 100px;
+}
+header:hover {
+  cursor: pointer;
 }
 
 header h1, header h2, header h3 {
@@ -118,4 +123,11 @@ footer .c2{
 
 footer .c2 > p{
   margin-right: 10px;
+}
+footer a {
+  color: blue;
+  text-decoration: none;
+}
+footer a:hover {
+  text-decoration: underline;
 }
