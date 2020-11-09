@@ -54,24 +54,30 @@ nav{
     border: 1px solid black;
     margin: 0 50px;
     border-radius: 5px;
-    background: linear-gradient(to right bottom, #648880, #293f50);
+    background: linear-gradient(rgba(131, 135, 131) 50%, rgba(112, 112, 112) 50%);
+
     color: #fff;
 }
 .n {
   border-right: 1px solid #464646;
   flex: 1;
   text-align: center;
+  justify-content: center;
 }
-.n:hover {
-  background-color: rgba(0, 0, 0, 0.5);
+
+.inner-addon{
+  display:flex;
+  justify-content: space-between;
+  margin-left: 15px;
 }
-.n9 p {
-  border: 1px solid gray;
-  border-radius: 25px;
-  background: gray;
-  text-align: left;
-  margin: 0 15px;
+
+.inner-addon input{
+  background: rgba(128,128,128, 0.6);
+  border-radius: 10px;
+  margin: 0 20px;
+  padding-left: 30px;
 }
+
 nav>div{
     padding: 10px 0;
     content: 0 50px;
@@ -109,10 +115,10 @@ section {
 }
 /* Footer */
 footer{
-  word-spacing: 10px;
-  letter-spacing: 1px;
+  /*word-spacing: 10px;
+  letter-spacing: 1px;*/
   font-size: 11px;
-  margin: 20px;
+  margin: 20px 150px;
   display:flex;
   justify-content: space-between;
 }
@@ -122,7 +128,7 @@ footer .c2{
 }
 
 footer .c2 > p{
-  margin-right: 10px;
+  margin: 0 10px;
 }
 footer a {
   color: blue;
