@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Positioning And Floating Elements (New York Times page)
+# Building with backgrounds and gradients
 
 > This is a collaborative 4th project in the HTML5&CSS3 Microverse curriculum.
 
@@ -10,8 +10,8 @@ This project consists of building a webpage using images as a background and add
 
 ## Built With
 
-- HTML
-- CSS
+- HTML 5
+- CSS 3
 
 ## Live Demo
 
@@ -20,15 +20,14 @@ This project consists of building a webpage using images as a background and add
 
 ## Getting Started
 
-- Clone or download the project in your computer
-- Now, open the file index.html in your favorite browser
-- Because this is only an HTML/CSS project, you don't need a local server to run it
+- Clone or download this project on your computer
+- Open it with your favorite browser
 
 ## Authors
 
 👤 **Victor Pacheco**
 
-- GitHub: [@elberthcorniell](https://github.com/vichuge)
+- GitHub: [@vichuge](https://github.com/vichuge)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/victor-pacheco-7946aab2/)
 
 👤 **Mar Bautista**
