@@ -151,12 +151,20 @@ footer {
   justify-content: space-between;
 }
 
+.c1 p {
+  color: #a19c8a;
+}
+
 footer .c2 {
   display: flex;
 }
 
 footer .c2 > p {
   margin: 0 5px;
+}
+
+footer a {
+  color: #447bd3;
 }
 
 footer a:hover {
