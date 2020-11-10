@@ -72,6 +72,10 @@ nav {
   color: #fff;
 }
 
+nav a:hover {
+  text-decoration: none;
+}
+
 .n,
 .n9 {
   border-right: 1px solid #464646;
@@ -79,6 +83,11 @@ nav {
   text-align: center;
   justify-content: center;
   padding: 10px 0;
+  color:white;
+}
+
+.n p {
+  margin-bottom: 0;
 }
 
 .n:hover {
@@ -137,7 +146,7 @@ section {
 /* Footer */
 footer {
   font-size: 11px;
-  margin: 20px 150px;
+  margin: 20px 70px;
   display: flex;
   justify-content: space-between;
 }
@@ -146,8 +155,8 @@ footer .c2 {
   display: flex;
 }
 
-footer .c2 > p {
-  margin: 0 10px;
+footer .c2>p {
+  margin: 0 5px;
 }
 
 footer a:hover {
