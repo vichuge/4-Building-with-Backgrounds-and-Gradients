@@ -47,6 +47,11 @@ header a {
   text-decoration: none;
 }
 
+footer a {
+  color: blue;
+  text-decoration: none;
+}
+
 header a:hover {
   text-decoration: underline;
   text-decoration-color: #fff;
@@ -60,7 +65,7 @@ header a:hover {
 nav {
   display: flex;
   justify-content: space-around;
-  border: 1px solid #5D5D5D;
+  border: 1px solid #5d5d5d;
   margin: 0 50px;
   border-radius: 5px;
   background: linear-gradient(#8b8b8b, #707070 50%, #5e5e5e 50%, #787878);
@@ -73,6 +78,7 @@ nav {
   flex: 1;
   text-align: center;
   justify-content: center;
+  padding: 10px 0;
 }
 
 .n:hover {
@@ -90,12 +96,6 @@ nav {
   border-radius: 10px;
   margin: 0 20px;
   padding-left: 30px;
-}
-
-nav > div {
-  padding: 10px 0;
-  content: 0 50px;
-  margin-right: 1px solid black;
 }
 
 nav div p {
@@ -148,11 +148,6 @@ footer .c2 {
 
 footer .c2 > p {
   margin: 0 10px;
-}
-
-footer a {
-  color: blue;
-  text-decoration: none;
 }
 
 footer a:hover {
