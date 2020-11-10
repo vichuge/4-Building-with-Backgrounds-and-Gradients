@@ -83,7 +83,7 @@ nav a:hover {
   text-align: center;
   justify-content: center;
   padding: 10px 0;
-  color:white;
+  color: white;
 }
 
 .n p {
@@ -107,7 +107,7 @@ nav a:hover {
   padding-left: 30px;
 }
 
-nav div p {
+.p-nav {
   margin-bottom: 0;
 }
 
@@ -155,7 +155,7 @@ footer .c2 {
   display: flex;
 }
 
-footer .c2>p {
+footer .c2 > p {
   margin: 0 5px;
 }
 
