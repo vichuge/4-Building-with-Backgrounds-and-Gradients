@@ -47,11 +47,6 @@ header a {
   text-decoration: none;
 }
 
-footer a {
-  color: blue;
-  text-decoration: none;
-}
-
 header a:hover {
   text-decoration: underline;
   text-decoration-color: #fff;
@@ -163,10 +158,11 @@ footer .c2 > p {
   margin: 0 5px;
 }
 
-footer a {
+.foot-link {
   color: #447bd3;
+  text-decoration: none;
 }
 
-footer a:hover {
+.foot-link:hover {
   text-decoration: underline;
 }
