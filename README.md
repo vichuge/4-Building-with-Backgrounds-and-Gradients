@@ -6,7 +6,7 @@
 
 # Screenshot
 
-![screenshot](./assets/img/apple page.png)
+![screenshot](./assets/img/apple_page.png)
 
 ## Developers
 
